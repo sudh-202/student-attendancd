@@ -1,4 +1,4 @@
-link - student-management-system-app.netlify.app
+link - https://student-management-system-app.netlify.app/
 
 # Getting Started with Create React App
 
